@@ -67,3 +67,9 @@ So a good clean and a merger was a winning action.
 
 <img src="https://github.com/AI4AIS-ComputerVision/ProjectHome_AI4AIS/blob/master/Img/DataClassification.png"/>
 
+--------------------------------------------------------------------------------------------------------
+
+## Results
+
+<img src="https://github.com/AI4AIS-ComputerVision/ProjectHome_AI4AIS/blob/master/Img/results.png"/>
+
