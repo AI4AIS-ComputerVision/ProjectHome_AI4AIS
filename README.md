@@ -42,3 +42,9 @@ We had to perform modification and filtering actions on the starting dataset.
 The main reason that pushed us to do this was that the starting dataset had dirty and raw data. 
 So a good clean and a merger was a winning action.
 
+<img src= "https://github.com/AI4AIS-ComputerVision/ProjectHome_AI4AIS/blob/master/Img/DatasetManipulation.png"/>
+
+## Data Classification
+
+<img src="https://github.com/AI4AIS-ComputerVision/ProjectHome_AI4AIS/blob/master/Img/DataClassification.png"/>
+
