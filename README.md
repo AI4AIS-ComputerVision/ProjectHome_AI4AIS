@@ -29,3 +29,16 @@ AIS does this by continuously transmitting  (every 5 minutes) vessels’ positio
 ## Motivation and Goals
 * We propose new techniques to process position data, extracting vessel trips and recognizing fishing activities, at the current stage of development, also mapping the harbors at the beginning and end of a fishing session.
 * The ability to map (even in real time) the ships allows to detect illegal activities or to certify the area where a certain ship has carried out its fishing activities.
+
+## Dataset AIS
+* Data Acquisition:
+Acquisition of dataset provided by the CNR on various types of vessels.
+Dataset is structured in several CSV files. 
+This is what it looks like:
+   * *RAW*: raw data in which the characteristics released by a certain ship are present, with pings released by a system towards a DB every 5 minutes.
+   * *SESSION*: Sessions of each month for each type of fishing. From the harbor of departure until return.
+* Data Manipulation:
+We had to perform modification and filtering actions on the starting dataset. 
+The main reason that pushed us to do this was that the starting dataset had dirty and raw data. 
+So a good clean and a merger was a winning action.
+
