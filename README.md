@@ -3,8 +3,16 @@ Univeristà Politecnica delle Marche - Pietro Rignanese, Andrea Polenta e France
 
 Progetto di *Computer Vision and Deep Learning*
 
-Prof: Emanuele Frontoni<br>
-Tutor: Adriano Mancini e Alessandro Galdelli
+*Prof: Emanuele Frontoni*<br>
+*Tutor: Adriano Mancini e Alessandro Galdelli*
+
+<br>
+
+For this project we used two approaches:
+ * Use of a *VggNet-16* type Convolutional Neural Network:
+   * Generation of *images* starting from analog data collected during fishing sessions.
+ * Use of a *Inception-Time* Neural Network to Time Series CNN (Convolutional Neural Network):
+   * Use of pure *analog data* from fishing sessions
 
 ------------------------------------------------------------------------------------------------
 
