@@ -12,7 +12,18 @@ For this project we used two approaches:
  * Use of a *VggNet-16* type Convolutional Neural Network:
    * Generation of *images* starting from analog data collected during fishing sessions.
  * Use of a *Inception-Time* Neural Network to Time Series CNN (Convolutional Neural Network):
-   * Use of pure *analog data* from fishing sessions
+   * Use of pure *analog data* from fishing sessions.
+   
+### Traditional CNN Approach (VggNet-16):   
+In [this link](https://drive.google.com/file/d/1JuyLvANQNYCGBLgWSKOgdZd2rlMdcgqx/view?usp=sharing) there is the complete dataset with the models and the results of all the tests carried out on the image approach.
+Inside there are the datasets of images (divided by test and set) with the relative models and a README file that explains how they were cataloged.
+
+### Time Series CNN Approach (Inception-Time):
+In [this link](https://github.com/AI4AIS-ComputerVision/AI4AIS_CV) there is a github repository which explains the approach to the problem with time series. there is a step-by-step guide on how to replicate the experiment on Google Coolab.
+The repo is private for university research. If you want access, contact us at this address:
+* pietro_rignanese@hotmail.it
+* andrea.polenta@outlook.it
+* boccifpb@hotmail.it
 
 ------------------------------------------------------------------------------------------------
 
